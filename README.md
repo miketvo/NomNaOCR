@@ -56,7 +56,7 @@ Mình cùng người đồng đội [Nguyễn Đức Duy Anh](https://github.com
 - Các hình ảnh lẫn URL của chúng.
 - Các nội dung được phiên dịch gồm các ký tự Hán-Nôm kỹ thuật số và phần dịch Quốc Ngữ của chúng (nếu có).
 
-![https://user-images.githubusercontent.com/50880271/195821433-59c35cec-af04-4706-9aa9-a71b000e39a4.mp4](https://user-images.githubusercontent.com/50880271/195821433-59c35cec-af04-4706-9aa9-a71b000e39a4.mp4)
+[https://user-images.githubusercontent.com/50880271/195821433-59c35cec-af04-4706-9aa9-a71b000e39a4.mp4](https://user-images.githubusercontent.com/50880271/195821433-59c35cec-af04-4706-9aa9-a71b000e39a4.mp4)
 
 #### a. Hướng dẫn thu thập
 
