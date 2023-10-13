@@ -2,7 +2,7 @@
 
 English | Tiếng Việt
 
-![https://user-images.githubusercontent.com/50880271/195821293-367876c1-818d-40e9-b4b5-381d2fc831c3.mp4](https://user-images.githubusercontent.com/50880271/195821293-367876c1-818d-40e9-b4b5-381d2fc831c3.mp4)
+[https://user-images.githubusercontent.com/50880271/195821293-367876c1-818d-40e9-b4b5-381d2fc831c3.mp4](https://user-images.githubusercontent.com/50880271/195821293-367876c1-818d-40e9-b4b5-381d2fc831c3.mp4)
 
 - Audio: [ĐÀ LỊCH SỬ- Tóm tắt lịch sử Việt Nam - Từ Nguyễn Phương](https://youtu.be/1dwFsbbPJ80?t=686)
 - Demo: [https://github.com/ds4v/NomNaSite](https://github.com/ds4v/NomNaSite)
